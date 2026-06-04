@@ -18,15 +18,15 @@
 
 ## About Me
 
-I am based in Munich, Germany, pursuing my Master's in Business Analytics and Data Science — while building a career at the intersection of cloud infrastructure and artificial intelligence.
+I am based in Munich, Germany, pursuing my Master's in Business Analytics and Data Science while building a career at the intersection of cloud infrastructure and artificial intelligence.
 
-I have spent the last 10+ years designing and operating systems that actually matter in production. Not toy projects. Not demos. Real platforms handling real workloads — at Audi AG, IABG, Infineon Technologies, Thomson Reuters, and IBM.
+I have spent the last 10+ years designing and operating systems that actually matter in production. Not toy projects. Not demos. Real platforms handling real workloads at Audi AG, IABG, Infineon Technologies, Thomson Reuters, and IBM.
 
-Right now I am working at **Audi AG** as part of the AIDA AI project within the VW Group, where I build LLM-powered backend services, implement EU AI Act compliance infrastructure including C2PA metadata signing and content provenance, and run Black Duck security scanning across AI pipelines on AWS Lambda. When you are shipping AI systems inside one of the world's largest automotive groups, the bar for reliability, security, and compliance is not optional — it is the job.
+Right now I am working at **Audi AG** as part of the AIDA AI project within the VW Group, where I build LLM-powered backend services, implement EU AI Act compliance infrastructure including C2PA metadata signing and content provenance, and run Black Duck security scanning across AI pipelines on AWS Lambda. When you are shipping AI systems inside one of the world's largest automotive groups, the bar for reliability, security, and compliance is not optional it is the job.
 
-Before Audi, I spent a year at **IABG** — a German defence and aerospace company — building production APIs and data pipelines for safety-critical systems. That experience taught me what it really means to engineer for reliability when failure is not an option.
+Before Audi, I spent a year at **IABG** a German defence and aerospace company building production APIs and data pipelines for safety-critical systems. That experience taught me what it really means to engineer for reliability when failure is not an option.
 
-I care deeply about the full stack of what it takes to ship great AI — from the Terraform module that provisions the infrastructure, to the LangGraph agent that orchestrates the workflow, to the guardrails that make sure the LLM does not hallucinate in production.
+I care deeply about the full stack of what it takes to ship great AI from the Terraform module that provisions the infrastructure, to the LangGraph agent that orchestrates the workflow, to the guardrails that make sure the LLM does not hallucinate in production.
 
 Outside of work I spend my mornings at the gym, I love cooking Indian food in Munich, and I try to travel across Europe whenever I can.
 
@@ -35,16 +35,16 @@ Outside of work I spend my mornings at the gym, I love cooking Indian food in Mu
 ## What I Build
 
 ### Large Language Models and Generative AI
-I build production LLM systems — not just API wrappers. RAG pipelines with proper chunking strategies to minimise hallucinations. Multi-agent systems using LangGraph and Model Context Protocol where agents actually complete tasks rather than loop forever. Evaluation frameworks that measure what matters — faithfulness, relevance, groundedness. Fine-tuning pipelines on domain-specific data. I work with OpenAI, Anthropic Claude, and open-source models depending on what the use case actually needs.
+I build production LLM systems not just API wrappers. RAG pipelines with proper chunking strategies to minimise hallucinations. Multi-agent systems using LangGraph and Model Context Protocol where agents actually complete tasks rather than loop forever. Evaluation frameworks that measure what matters faithfulness, relevance, groundedness. Fine-tuning pipelines on domain-specific data. I work with OpenAI, Anthropic Claude, and open-source models depending on what the use case actually needs.
 
 ### MLOps and AI Infrastructure
-Training a model is 10% of the work. Getting it to production reliably is the other 90%. I build end-to-end MLOps pipelines — experiment tracking with MLflow, model versioning and registry, automated retraining triggers, drift detection, and Kubernetes-based serving with HPA auto-scaling. If a model degrades in production at 2 AM, my observability stack catches it before the business does.
+Training a model is 10% of the work. Getting it to production reliably is the other 90%. I build end-to-end MLOps pipelines experiment tracking with MLflow, model versioning and registry, automated retraining triggers, drift detection, and Kubernetes-based serving with HPA auto-scaling. If a model degrades in production at 2 AM, my observability stack catches it before the business does.
 
 ### Kubernetes and Cloud Platforms
-I run Kubernetes in production — not just locally. EKS and AKS clusters with stateful workloads including databases and Kafka brokers. Multi-cluster management with Rancher and vCluster. GitOps deployments with ArgoCD and Helm. I have managed cluster upgrades, node group replacements, and service mesh configurations with Istio without taking down production. AWS is my strongest cloud — EKS, Lambda, S3, CDK, EventBridge, RDS. I also work extensively on Azure and GCP.
+I run Kubernetes in production not just locally. EKS and AKS clusters with stateful workloads including databases and Kafka brokers. Multi-cluster management with Rancher and vCluster. GitOps deployments with ArgoCD and Helm. I have managed cluster upgrades, node group replacements, and service mesh configurations with Istio without taking down production. AWS is my strongest cloud EKS, Lambda, S3, CDK, EventBridge, RDS. I also work extensively on Azure and GCP.
 
 ### EU AI Act and Responsible AI
-I implemented C2PA content provenance signing for AI-generated assets at Audi AG — one of the first production implementations of this standard within the VW Group. I understand what BaFin, MaRisk, DORA, and the EU AI Act actually require at the engineering level, not just the compliance level. Responsible AI is not a checkbox for me — it is part of the architecture.
+I implemented C2PA content provenance signing for AI-generated assets at Audi AG one of the first production implementations of this standard within the VW Group. I understand what BaFin, MaRisk, DORA, and the EU AI Act actually require at the engineering level, not just the compliance level. Responsible AI is not a checkbox for me it is part of the architecture.
 
 ---
 
@@ -100,7 +100,7 @@ AWS Certified Solutions Architect - Associate · AWS Certified Machine Learning 
 
 ## Currently
 
-Working at **Audi AG** on the AIDA project — LLM infrastructure, EU AI Act compliance, and AI security pipelines within the VW Group.
+Working at **Audi AG** on the AIDA project LLM infrastructure, EU AI Act compliance, and AI security pipelines within the VW Group.
 
 Completing **M.Sc. Business Analytics and Data Science** at EU Business School Munich. CGPA 3.8 out of 4.0.
 
