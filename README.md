@@ -22,6 +22,17 @@ What I enjoy: taking messy operational problems and turning them into reliable, 
 
 Each repo has a short architecture diagram, a runnable quickstart, and sample output, so you can see how it works in a minute.
 
+### Real-time and LLM infrastructure
+
+A newer set focused on the systems side of AI: streaming inference, cost control, and the dataset work behind a fine-tune. Each one runs with a single `make demo`, ships a full test suite, and shows real output in its README.
+
+| Project | What it does |
+| --- | --- |
+| [realtime-stream-inference](https://github.com/Krishna89287/realtime-stream-inference) | Anomaly detection over event streams with queue backpressure and p99 latency tracking |
+| [ai-incident-copilot](https://github.com/Krishna89287/ai-incident-copilot) | Collapses Alertmanager alerts into incidents, scores severity, and suggests a runbook |
+| [llm-semantic-cache](https://github.com/Krishna89287/llm-semantic-cache) | Caches LLM responses by prompt similarity to cut repeat cost and latency |
+| [llm-finetune-toolkit](https://github.com/Krishna89287/llm-finetune-toolkit) | Validates, splits, formats, and evaluates supervised fine-tuning datasets |
+
 ## Background
 
 - 14 years across system engineering, Linux administration, DevOps, SRE and cloud, now focused on AI engineering.
